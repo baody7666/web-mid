@@ -21,8 +21,8 @@ export default {
       menuList: [
         {title: 'Home'},
         {title: 'News'},
-        {title: 'Admission',secondary: ['春之清華獎學金','FB粉絲團','2020招生','招生Q&A'],isTrue: true},
-        {title: 'Teachers',secondary: ['學士班','藝設系','音樂系','電資學院',],isTrue: true},
+        {title: 'Admission',secondary: ['|  春之清華獎學金','| FB粉絲團','| 2020招生','| 招生Q&A'],isTrue: true},
+        {title: 'Teachers',secondary: ['|  學士班','|  藝設系','|  音樂系','|  電資學院',],isTrue: true},
         {title: 'Contact'}
       ]
     }
@@ -99,11 +99,12 @@ export default {
   right: 34.67px
   top: 0px
   display: none
-  font-family: HammersmithOne
+  font-family: GemunuLibre-Medium
   font-style: normal
   font-weight: normal
   font-size: 24px
   line-height: 30px
+  //font-weight: 550
   text-align: left
   letter-spacing: 0.1em
   background-color: #5D6874
