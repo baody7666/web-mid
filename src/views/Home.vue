@@ -34,6 +34,7 @@
  background-image: url("https://scontent-hkt1-1.xx.fbcdn.net/v/t1.0-9/131569235_3445317692183431_6034733367559530690_o.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=z17LxF-nwMYAX_6gdrA&_nc_ht=scontent-hkt1-1.xx&oh=031bbb19f6cba58b51068488015afcd6&oe=6005B25D")
  background-size: cover
  position: relative
+ 
 
 .nthu
   font-size: 68px

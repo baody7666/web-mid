@@ -41,7 +41,8 @@ export default {
   color: #2c3e50
   display: flex
   flex-direction: row-reverse
-
+  width: 1920px
+  margin: auto
 #nav 
   padding: 30px
 
@@ -59,6 +60,7 @@ export default {
   background-color: #FFF
   overflow: visible
   z-index: 1000
+  float: right
 .search
   padding: 35px 50px
   background-color: #5D6874
@@ -104,7 +106,7 @@ export default {
   font-weight: normal
   font-size: 24px
   line-height: 30px
-  //font-weight: 550
+  font-weight: 550
   text-align: left
   letter-spacing: 0.1em
   background-color: #5D6874
